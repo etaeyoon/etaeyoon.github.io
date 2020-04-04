@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test</title>
-    <link>https://etaeyoon.github.io/</link>
-    <description>Recent content on Test</description>
+    <title>Posts on Test</title>
+    <link>https://etaeyoon.github.io/post/</link>
+    <description>Recent content in Posts on Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Apr 2020 18:25:38 +0900</lastBuildDate>
     
-	<atom:link href="https://etaeyoon.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://etaeyoon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
