@@ -6,9 +6,20 @@
     <description>Recent content on Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 11 Apr 2020 16:40:04 +0900</lastBuildDate>
     
 	<atom:link href="https://etaeyoon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://etaeyoon.github.io/about/</link>
+      <pubDate>Sat, 11 Apr 2020 16:40:04 +0900</pubDate>
+      
+      <guid>https://etaeyoon.github.io/about/</guid>
+      <description>About 맥주를 너무 좋아하지만
+맥주를 곧 끊는 것이 목표.</description>
+    </item>
     
   </channel>
 </rss>
