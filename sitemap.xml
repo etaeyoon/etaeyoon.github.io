@@ -3,22 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://etaeyoon.github.io/post/</loc>
-    <lastmod>2020-04-04T18:25:38+09:00</lastmod>
+    <loc>https://etaeyoon.github.io/tags/</loc>
   </url>
   
   <url>
     <loc>https://etaeyoon.github.io/</loc>
-    <lastmod>2020-04-04T18:25:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etaeyoon.github.io/post/test/</loc>
-    <lastmod>2020-04-04T18:25:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etaeyoon.github.io/tags/</loc>
   </url>
   
 </urlset>
